@@ -1,0 +1,144 @@
+other.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bush
+  rotate: false
+  xy: 793, 72
+  size: 36, 39
+  orig: 70, 70
+  offset: 17, 0
+  index: -1
+cactus
+  rotate: false
+  xy: 578, 52
+  size: 45, 59
+  orig: 70, 70
+  offset: 13, 0
+  index: -1
+coinBronze
+  rotate: false
+  xy: 625, 71
+  size: 40, 40
+  orig: 70, 70
+  offset: 15, 12
+  index: -1
+coinDiamond
+  rotate: false
+  xy: 667, 71
+  size: 40, 40
+  orig: 70, 70
+  offset: 15, 12
+  index: -1
+coinGold
+  rotate: false
+  xy: 709, 71
+  size: 40, 40
+  orig: 70, 70
+  offset: 15, 12
+  index: -1
+coinSilver
+  rotate: false
+  xy: 751, 71
+  size: 40, 40
+  orig: 70, 70
+  offset: 15, 12
+  index: -1
+dirt
+  rotate: false
+  xy: 2, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagBlue
+  rotate: false
+  xy: 74, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagGreen
+  rotate: false
+  xy: 146, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagRed
+  rotate: false
+  xy: 218, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+flagYellow
+  rotate: false
+  xy: 290, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frozenBush
+  rotate: false
+  xy: 831, 72
+  size: 36, 39
+  orig: 70, 70
+  offset: 17, 0
+  index: -1
+grass
+  rotate: false
+  xy: 362, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 2, 4
+  size: 61, 35
+  orig: 70, 70
+  offset: 5, 0
+  index: -1
+sand
+  rotate: false
+  xy: 434, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 506, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+starBronze
+  rotate: false
+  xy: 869, 74
+  size: 38, 37
+  orig: 70, 70
+  offset: 16, 14
+  index: -1
+starDiamond
+  rotate: false
+  xy: 909, 74
+  size: 38, 37
+  orig: 70, 70
+  offset: 16, 14
+  index: -1
+starGold
+  rotate: false
+  xy: 949, 74
+  size: 38, 37
+  orig: 70, 70
+  offset: 16, 14
+  index: -1
+starSilver
+  rotate: false
+  xy: 65, 2
+  size: 38, 37
+  orig: 70, 70
+  offset: 16, 14
+  index: -1

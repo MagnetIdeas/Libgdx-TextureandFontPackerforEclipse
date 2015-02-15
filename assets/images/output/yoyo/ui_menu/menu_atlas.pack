@@ -1,0 +1,61 @@
+
+menu_atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_credit_down
+  rotate: false
+  xy: 128, 33
+  size: 89, 31
+  orig: 90, 33
+  offset: 1, 0
+  index: -1
+button_credit_up
+  rotate: false
+  xy: 128, 2
+  size: 89, 31
+  orig: 90, 33
+  offset: 1, 0
+  index: -1
+button_highscore_down
+  rotate: false
+  xy: 217, 33
+  size: 89, 31
+  orig: 90, 33
+  offset: 1, 0
+  index: -1
+button_highscore_up
+  rotate: false
+  xy: 217, 2
+  size: 89, 31
+  orig: 90, 33
+  offset: 1, 0
+  index: -1
+button_sound_off
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+button_sound_on
+  rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+button_start_down
+  rotate: false
+  xy: 306, 33
+  size: 89, 31
+  orig: 90, 33
+  offset: 1, 0
+  index: -1
+button_start_up
+  rotate: false
+  xy: 306, 2
+  size: 89, 31
+  orig: 90, 33
+  offset: 1, 0
+  index: -1
